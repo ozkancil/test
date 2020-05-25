@@ -1,0 +1,38 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite 3" >
+    <test name="Test Suite 3"   >
+        <classes>
+            <class name="com.techproed.smoketest.NegativeTest">
+                <methods>
+
+                    <include name="invalidID" />
+
+                  <exclude name="invalidIDAndPass"/>
+
+
+
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+
+<test name="Test Suite 4" >
+<classes>
+    <class name="com.techproed.test.WaitTest">
+        <methods>
+
+            <include name="invalidID" />
+
+            <exclude name="invalidIDAndPass"/>
+
+
+
+        </methods>
+    </class>
+
+</classes>
+</test>
+
+</suite>

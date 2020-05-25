@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54fc0ae0-b580-4fdc-857a-2cfb1ade13ce" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mytestNGframework" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1a3OMYHhYJpyhqYmI0efqHWASj1" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/techproed/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/techproed/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.NegativeTestCase">
+    <configuration name="ExtentReportsTest.signUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytestNGframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.test" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.test.ExtentReportsTest" />
+      <option name="METHOD_NAME" value="signUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytestNGframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.test" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.test.NegativeTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcel2.readExcelFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytestNGframework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techproed.excelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techproed.excelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="com.techproed.excelAutomation.ReadExcel2" />
+      <option name="METHOD_NAME" value="readExcelFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ozkan/Desktop/JAVA codes Template/mytestNGframework/runcertainclasses.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytestNGframework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/runcertainclasses.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ozkan/Desktop/JAVA codes Template/mytestNGframework/smoketest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mytestNGframework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoketest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.NegativeTestCase" />
+        <item itemvalue="TestNG.ExtentReportsTest.signUp" />
+        <item itemvalue="TestNG./Users/ozkan/Desktop/JAVA codes Template/mytestNGframework/runcertainclasses.xml" />
+        <item itemvalue="TestNG./Users/ozkan/Desktop/JAVA codes Template/mytestNGframework/smoketest.xml" />
+        <item itemvalue="TestNG.ReadExcel2.readExcelFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54fc0ae0-b580-4fdc-857a-2cfb1ade13ce" name="Default Changelist" comment="" />
+      <created>1585960763954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585960763954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techproed/test/AmazonDropDownMenu.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/techproed/test/HotelRoom.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mytestNGframework$AmazonDropDownMenu.ic" NAME="AmazonDropDownMenu Coverage Results" MODIFIED="1586996340368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techproed.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
