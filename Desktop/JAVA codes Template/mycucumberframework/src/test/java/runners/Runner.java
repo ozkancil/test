@@ -11,8 +11,9 @@ import org.junit.runner.RunWith;
  features="src/test/resources/features",
         //step definitions folder
         glue="src/test/java/stepdefinitions",
-        tags="@FHCloginParameters",
+        tags="@datatable",
        dryRun=false
+
 
 
 )

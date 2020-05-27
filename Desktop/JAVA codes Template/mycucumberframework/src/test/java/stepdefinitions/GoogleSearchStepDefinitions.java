@@ -4,10 +4,13 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
+import pages.GooglePage;
 import utilities.Driver;
 
 public class GoogleSearchStepDefinitions {
+GooglePage googlePage=new GooglePage();
 
 
 
@@ -58,6 +61,18 @@ searchBox.submit();
 
     }
 
+    @Given("user searches for {string}")
+    public void user_searches_for(String string) {
+googlePage.searchBox.sendKeys(string+ Keys.ENTER);
+
+    }
+    @Then("verify the result has {string}")
+    public void verify_the_result_has(String string) {
+        String title=Driver.getDriver().getTitle().toLowerCase();
+        System.out.println("title is "+ title);
+Assert.assertTrue(title.contains(string));
+
+    }
 
 
 }
